@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001/students';
+const API_URL = 'https://student-result-management-qlzz.onrender.com';
 
 const studentService = {
   // Get all students
