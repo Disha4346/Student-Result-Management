@@ -93,9 +93,3 @@ Visit: http://localhost:3000
 Backend: http://localhost:3001/students
 
 ------------------------------------------------------------------------
-
-## 👩‍💻 Author
-
-**Disha Gupta**
-
-GitHub: https://github.com/Disha4346
